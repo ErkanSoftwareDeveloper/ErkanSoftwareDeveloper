@@ -1,4 +1,4 @@
-👋 Hi, I’m Erkan, a software developer (student) based in Germany 🇩🇪
+Hi, I’m Erkan, a software developer (student) based in Germany
 
 I speak German, English, Turkish, Russian, and Bulgarian. Feel free to ask me questions. I’m always happy to help if I can.
 
