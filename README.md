@@ -4,7 +4,7 @@
 
 ### Backend Development · Automation · AI · Robotics
 
-Software developer based in Berlin, Germany.
+Software developer based in Berlin, Germany
 
 </div>
 
